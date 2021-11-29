@@ -1,6 +1,7 @@
 name: prompter_cli
 version: 0.0.1
 description: This is for CLI wizards
+repository: https://github.com/MajiMura/Prompter-CLI
 
 environment:
   sdk: '>=2.10.0 <3.0.0'
